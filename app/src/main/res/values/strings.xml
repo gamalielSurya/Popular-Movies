@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="error_message">No Internet Connection &#8230;</string>
+
+    <string name="poster_description">Movie Poster</string>
+
+    <string name="det_title">Title</string>
+    <string name="det_overview">Overview</string>
+    <string name="det_release">Release Date : </string>
+    <string name="det_rating">Rating : </string>
+</resources>
